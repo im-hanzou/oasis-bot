@@ -1,5 +1,14 @@
 # OASIS AI BETA CLI VERSION
-- Register: [Oasis AI](https://r.oasis.ai/f6483dade2d18608)
+## Register: [Oasis AI](https://r.oasis.ai/f6483dade2d18608)
+# Buy Proxies
+- Free Proxies Static Residental: 
+1. [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
+2. [ProxyScrape](https://proxyscrape.com/?ref=odk1mmj)
+3. [MonoSans](https://github.com/monosans/proxy-list)
+- Paid Premium Static Residental:
+1. [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
+2. [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
+3. [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
 
 ![banner](image-1.png)
 AI inference powered by distributed compute
@@ -27,16 +36,6 @@ AI inference powered by distributed compute
 put your proxy in file `proxy.txt` format `http://username:pass@ip:port` 1 proxy for 1 provider
 
 so if you want create multiple providers you need to put multiple proxy there.
-
-# Buy Proxies
-- Free Proxies Static Residental: 
-1. [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
-2. [ProxyScrape](https://proxyscrape.com/?ref=odk1mmj)
-3. [MonoSans](https://github.com/monosans/proxy-list)
-- Paid Premium Static Residental:
-1. [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
-2. [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
-3. [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
 
 ## Setup
 
