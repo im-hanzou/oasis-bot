@@ -1,5 +1,5 @@
 # OASIS AI BETA CLI VERSION
-## Register: [Oasis AI](https://r.oasis.ai/f6483dade2d18608)
+## Register: [Oasis AI](https://r.oasis.ai/lucifermorningstar)
 # Buy Proxies
 - Free Proxies Static Residental: 
 1. [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
